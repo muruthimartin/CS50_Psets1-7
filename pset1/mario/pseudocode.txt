@@ -1,0 +1,5 @@
+take user input
+set the height of the pyramid to that input if its between 1 and 8
+ create a loop to print #'s to represent the input. Bottom row has no of #'s equal to the height of pyramid
+  create a loop to print spaces by taking height-row-1
+   create an inside loop to reduce the #'s by one
